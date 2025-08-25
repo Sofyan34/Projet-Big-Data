@@ -1,0 +1,71 @@
+codcli,genrecli,nomcli,prenomcli,cpcli,villecli,codcde,datcde,timbrecli,timbrecde,Nbcolis,cheqcli,barchive,bstock,codobj,qte,Colis,libobj,Tailleobj,Poidsobj,points,indispobj,libcondit,prixcond,puobj,raison,DEP
+29360,M. & Mme,BIARD,Pierre,72320,VIBRAYE,44592,,0.0,9.7,1.0,6.4,1,1,41,5.0,1.0,Drap de bain,0,400,80.0,0,Carton Ballon,0,0,Date erronée,
+29360,M. & Mme,BIARD,Pierre,72320,VIBRAYE,44592,,0.0,9.7,1.0,6.4,1,1,84,1.0,1.0,Flyer,0,0,0.0,0,Carton Ballon,0,0,Date erronée,
+1247,Mme,HAREL,Marie-Anne,44370,LOIREAUXENCE,53937,1899-12-30,0.0,4.6,1.0,4.35,1,1,41,1.0,1.0,Drap de bain,0,400,80.0,0,Enveloppe Drap de Bain,0,0,Date erronée,
+1247,Mme,HAREL,Marie-Anne,44370,LOIREAUXENCE,53937,1899-12-30,0.0,4.6,1.0,4.35,1,1,84,1.0,1.0,Flyer,0,0,0.0,0,Enveloppe Drap de Bain,0,0,Date erronée,
+3490,Mme,GAUTIER,Marguerite,72160,TUFFE VAL DE LA CHERONNE,69938,,0.0,8.0,1.0,7.0,1,1,41,3.0,1.0,Drap de bain,0,400,80.0,0,Carton Ballon,0,0,Date erronée,
+3490,Mme,GAUTIER,Marguerite,72160,TUFFE VAL DE LA CHERONNE,69938,,0.0,8.0,1.0,7.0,1,1,45,1.0,1.0,Montre,Homme,30,150.0,0,Carton Ballon,0,0,Date erronée,
+3490,Mme,GAUTIER,Marguerite,72160,TUFFE VAL DE LA CHERONNE,69938,,0.0,8.0,1.0,7.0,1,1,20,1.0,1.0,Jeu de cartes,0,60,20.0,0,Carton Ballon,0,0,Date erronée,
+3490,Mme,GAUTIER,Marguerite,72160,TUFFE VAL DE LA CHERONNE,69938,,0.0,8.0,1.0,7.0,1,1,115,1.0,1.0,Flyer 2014,0,0,0.0,0,Carton Ballon,0,0,Date erronée,
+3490,Mme,GAUTIER,Marguerite,72160,TUFFE VAL DE LA CHERONNE,69938,,0.0,8.0,1.0,7.0,1,1,71,1.0,1.0,Points Bonus Fidelite,0,0,-500.0,0,Carton Ballon,0,0,Date erronée,
+39073,Mme,CHESNAIS,Brigitte,72610,ARCONNAY,80746,1899-12-30,0.0,2.75,1.0,3.25,1,1,76,1.0,1.0,Couverts a Salade,Confidence,180,120.0,0,Distingo 500 g,34,0,Date erronée,
+40679,Mme,LUCE,Arlette,61140,BAGNOLES DE L ORNE NORMANDIE,87671,1899-12-30,0.0,2.1,1.0,1.85,1,1,44,1.0,1.0,Montre,Femme,20,150.0,0,Distingo 50 g,132,0,Date erronée,
+40679,Mme,LUCE,Arlette,61140,BAGNOLES DE L ORNE NORMANDIE,87671,1899-12-30,0.0,2.1,1.0,1.85,1,1,44,1.0,1.0,Montre,Femme,20,150.0,0,Distingo 50 g,132,0,Date erronée,
+13530,Mme,Liger,Evelyne,27400,Louviers,15209,2006-02-07,4.9,5.1,1.0,0.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Enveloppe Tete de menagere,0,0,Doublon,27
+13736,Mme,Decultot,Solange,76560,Doudeville,15508,2006-02-16,0.0,7.15,1.0,12.0,1,1,42,6.0,1.0,Tete de menagere,Confidence,250,100.0,0,Carton Tete de menagere,0,0,Doublon,76
+14289,Mme,Marie,Annick,14740,Saint Manvieu Norrey,16290,2006-03-15,0.77,0.77,1.0,0.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 50 g,132,0,Doublon,14
+3518,Mme,Jamain,Eliane,44190,Getigne,16284,2006-03-14,2.44,2.09,1.0,0.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 50 g,132,0,Doublon,44
+5008,Mme,Rondel,Jacqueline,50160,St Amand Villages,17218,2006-04-19,1.59,0.77,1.0,0.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 50 g,132,0,Doublon,50
+15289,M.,Perrier,Patrice,14490,Le Tronquay,17708,2006-05-15,0.0,6.0,2.0,6.0,1,1,48,1.0,2.0,Carte publicitaire,0,0,-20.0,0,Carton Tete de menagere,0,0,Doublon,14
+16307,M. & Mme,Philippe,Marcel,53370,Saint Pierre Des Nids,19182,2006-07-05,0.0,1.8,1.0,1.8,1,1,44,1.0,1.0,Montre,Femme,20,150.0,0,Distingo 50 g,132,0,Doublon,53
+7720,Mme,Anquetil,Denise,28380,Saint Remy Sur Avre,22244,2006-11-15,0.0,5.8,1.0,5.8,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Tete de menagere,0,0,Doublon,28
+15289,M.,Perrier,Patrice,14490,Le Tronquay,23062,2006-12-14,0.0,6.4,1.0,7.04,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Drap de Bain,0,0,Doublon,14
+4365,Mme,Auvray,Aline,76520,Montmain,25597,2007-04-26,0.0,5.2,1.0,5.2,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Enveloppe Tete de menagere,0,0,Doublon,76
+4365,Mme,Auvray,Aline,76520,Montmain,25597,2007-04-26,0.0,5.2,1.0,5.2,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Enveloppe Tete de menagere,0,0,Doublon,76
+21546,Mme,Dessandier,Brigitte,53100,Mayenne,26478,2007-06-12,0.0,6.4,1.0,6.4,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Tete de menagere,0,0,Doublon,53
+3121,Mme,Laveille,Jeannine,27650,Muzy,28616,2007-10-09,0.0,1.8,1.0,1.8,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 100 g,178,0,Doublon,27
+3121,Mme,Laveille,Jeannine,27650,Muzy,28616,2007-10-09,0.0,1.8,1.0,1.8,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 100 g,178,0,Doublon,27
+10006,Mme,Besnard,Paulette,14340,Le Pre D'Auge,28837,2007-10-23,0.0,1.8,1.0,1.4,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 100 g,178,0,Doublon,14
+23557,M.,Le Rumeur,Andre,78200,Mantes La Jolie,29974,2007-12-18,0.0,2.5,1.0,3.38,1,1,24,1.0,1.0,Stylo plume,Reynolds,18,60.0,0,Distingo 500 g,34,0,Doublon,78
+13807,Mme,Bretonnet,Christine,27000,Evreux,29951,2007-12-17,0.0,5.1,1.0,6.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Louche,0,0,Doublon,27
+23735,Melle,Letang,Germaine,17240,Plassac,30344,2008-01-08,0.0,6.0,1.0,6.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,17
+23735,Melle,Letang,Germaine,17240,Plassac,30344,2008-01-08,0.0,6.0,1.0,6.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,17
+3823,Mme,Martinoff,Jacqueline,14121,Sallenelles,35213,2008-08-25,0.0,6.0,1.0,6.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,14
+26287,Mme,Girre,Stephanie,50700,Valognes,35768,2008-09-19,0.0,5.8,1.0,5.8,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,50
+26827,M. & Mme,Viel,Andre,14420,Ussy,37251,2008-12-19,0.0,6.0,1.0,6.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,14
+26827,M. & Mme,Viel,Andre,14420,Ussy,37251,2008-12-19,0.0,6.0,1.0,6.0,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,14
+27344,M. & Mme,Rostagnat,Marc,50890,Conde Sur Vire,38753,2009-03-27,0.0,6.4,2.0,6.0,1,1,48,1.0,2.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,50
+27711,Mme,Josso,Lucie,35600,Redon,39950,2009-07-02,0.0,5.8,1.0,5.8,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,35
+10913,Mme,Degraeve,Denise,85550,La Barre De Monts,39930,2009-07-01,0.0,4.5,1.0,3.5,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 500 g,34,0,Doublon,85
+1715,M. & Mme,Liegard,Rene,61800,Tinchebray Bocage,40017,2009-07-10,0.0,4.5,1.0,3.4,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 500 g,34,0,Doublon,61
+10012,M.,Mieuze,Gerard,37110,Chateau Renault,41556,2009-09-14,0.0,6.4,1.0,6.4,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Drap de Bain,0,0,Doublon,37
+28434,M.,Cauchon,Walter,50440,Herqueville,41758,2009-09-22,0.0,5.8,2.0,5.8,1,1,48,1.0,2.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,50
+17873,Mme,Honfroy,Octavie,78270,Bonnieres Sur Seine,42307,2009-10-21,0.0,5.5,1.0,5.2,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Enveloppe Tete de menagere,0,0,Doublon,78
+319,Mme,Deniaux,Reine,14690,Pont D'Ouilly,46770,2010-08-19,0.0,6.5,1.0,6.5,1,1,48,2.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,14
+1713,Mme,Charlot,Loetitia,50330,St Pierre Eglise,47656,2010-09-29,0.0,5.9,1.0,6.1,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,50
+2198,Mme,Brehon,Claire,14700,Falaise,52029,2011-07-20,0.0,7.1,1.0,7.1,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Enveloppe Tete de menagere,0,0,Doublon,14
+5143,M.,Jaccot,Alain,53940,Saint Berthevin,52673,2011-09-01,0.0,1.5,1.0,1.5,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Mini Max - 100 g,15,0,Doublon,53
+124,Mme,Brien,Renee,50700,Saint Joseph,53622,2011-11-09,0.0,7.1,2.0,5.8,1,1,48,1.0,2.0,Carte publicitaire,0,0,-20.0,0,Carton Louche,0,0,Doublon,50
+22300,Mme,Levesque,Paulette,61230,Gace,56736,2012-06-29,0.0,1.5,1.0,1.8,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 100 g,178,0,Doublon,61
+24057,Mme,Follenfant,Gisele,72220,Saint Mars D'Outille,57917,2012-11-08,0.0,1.5,1.0,1.5,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Distingo 100 g,178,0,Doublon,72
+2421,M.,Guillot,Daniel,76700,St Laurent De Brevedent,58812,2013-01-24,0.0,7.3,1.0,6.7,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Tete de menagere,0,0,Doublon,76
+33561,Mme,Mastin,Catherine,62750,Loos En Gohelle,58882,2013-01-30,0.0,2.5,2.0,5.42,1,1,48,2.0,2.0,Carte publicitaire,0,0,-20.0,0,Carton Poupee,0,0,Doublon,62
+4897,Mme,Ollivier,Rolande,53600,Mezangers,61087,2013-08-30,0.0,7.3,1.0,6.7,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton 5 kg,0,0,Doublon,53
+14112,M. & Mme,Le Champion,Michel Et Joelle,22440,Ploufragan,63717,2014-04-07,0.0,7.6,1.0,7.6,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Drap de Bain,0,0,Doublon,22
+35122,M. & Mme,Fortin,Raymond,53250,Javron Les Chapelles,64451,2014-06-18,0.0,8.3,1.0,8.3,1,1,41,1.0,1.0,Drap de bain,0,400,80.0,0,Carton Tete de menagere,0,0,Doublon,53
+4889,Mme,Carre,Elisabeth,72290,Souligne Sous Ballon,64715,2014-07-15,0.0,6.9,1.0,6.9,1,1,115,1.0,1.0,Flyer 2014,0,0,0.0,0,Enveloppe Tete de menagere,0,0,Doublon,72
+9714,Mme,Joubert,Helene,72330,Oize,64832,2014-07-28,0.0,2.65,1.0,3.65,1,1,115,1.0,1.0,Flyer 2014,0,0,0.0,0,Distingo 500 g,34,0,Doublon,72
+2613,Mme,Levi,Danielle,35310,Mordelles,66469,2014-12-26,0.0,5.8,1.0,4.84,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Lettre Suivie 500 g,43,0,Doublon,35
+35854,Mme,Fily,Jeanne-Marie,50340,Siouville Hague,67297,2015-03-02,0.0,12.0,1.0,12.0,1,1,115,1.0,1.0,Flyer 2014,0,0,0.0,0,Carton Special Grand Format,0,0,Doublon,50
+1099,Mme,Pichard,Constance,72400,Villaines La Gonais,67399,2015-03-11,0.0,8.0,1.0,7.6,1,1,115,1.0,1.0,Flyer 2014,0,0,0.0,0,Carton 5 kg,0,0,Doublon,72
+6332,Mme,Bataille,Roselyne,27170,Beaumont Le Roger,67503,2015-03-23,0.0,8.0,1.0,8.0,1,1,115,1.0,1.0,Flyer 2014,0,0,0.0,0,Carton Drap de Bain,0,0,Doublon,27
+29762,Mme,Mortier,Marie,72220,Ecommoy,67513,2015-03-24,0.0,5.8,1.0,4.3,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Lettre Suivie 500 g,43,0,Doublon,72
+34409,M. & Mme,Marie,Andre Et Nelly,14500,Vire Normandie,72287,2016-05-24,0.0,5.9,1.0,2.5,1,1,130,1.0,1.0,T-shirt Miss Bleu,XXL,155,60.0,0,Distingo 500 g,34,0,Doublon,14
+627,Mme,Boulleaux,Jacqueline,14700,Aubigny,72335,2016-05-30,0.0,10.6,1.0,9.7,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Carton Tete de menagere,0,0,Doublon,14
+26176,M.,Vernon,Laurent,50150,Sourdeval,75909,2017-04-10,0.0,11.45,1.0,11.45,1,1,76,1.0,1.0,Couverts a Salade,Confidence,180,120.0,0,Carton Special Grand Format,0,0,Doublon,50
+35563,M.,Pecot,Gilbert,14650,Carpiquet,76000,2017-04-21,0.0,1.65,1.0,2.09,1,1,44,1.0,1.0,Montre,Femme,20,150.0,0,Distingo 100 g,178,0,Doublon,14
+23144,M. & Mme,Thoby,Jacques,44740,Batz Sur Mer,77208,2017-09-08,0.0,6.85,1.0,5.45,1,1,48,1.0,1.0,Carte publicitaire,0,0,-20.0,0,Lettre Suivie 1 Kg,545,0,Doublon,44
+40120,Mme,Lombard,Joelle,54200,Dommartin Les Toul,85330,2020-01-09,0.0,10.3,1.0,8.5,1,1,165,1.0,1.0,V. EAU x 6,Loop,1680,60.0,0,Carton GD,0,0,Doublon,54
+13456,M. & Mme,Dufour,Florent,26120,Montelier,86456,2020-05-29,0.0,12.85,1.0,13.7,1,1,146,1.0,1.0,Verres a Vin x 6,Montmartre,1680,180.0,0,Carton GD,0,0,Doublon,26
+23353,Melle,Louaintier,Delphine,14310,Villers Bocage,86132,2020-04-10,0.0,9.4,1.0,9.4,1,1,152,1.0,1.0,Couteau a fromage,Verlaine,70,60.0,0,Carton Special Grand Format,0,0,Doublon,14
+39626,Mme,Da Silva,Evelyne,78270,Cravent,89542,2021-05-11,0.0,9.7,1.0,10.47,1,1,116,1.0,1.0,T-shirt Noir,M,155,60.0,0,Carton 10 kg,0,0,Doublon,78
