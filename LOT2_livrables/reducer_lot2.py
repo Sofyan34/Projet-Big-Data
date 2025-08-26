@@ -1,53 +1,52 @@
-import sys, io
-sys.stdin = io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8', errors='ignore')
+import sys
 
-cur = None
-ville_kept = ""
+current_cde = None
+current_ville = None
 qte_tot = 0
-n_lines = 0
-sum_no_tcli = 0
-
-def flush(cur, ville_kept, qte_tot, n_lines, sum_no_tcli):
-    if cur is None:
-        return
-    avg = (float(qte_tot)/n_lines) if n_lines > 0 else 0.0
-    # colonnes : codcde \t ville \t qte_totale \t sum_no_tcli \t avg_qte
-    sys.stdout.write("{0}\t{1}\t{2}\t{3}\t{4:.2f}\n".format(cur, ville_kept, qte_tot, sum_no_tcli, avg))
+n_lines = 1
+sans_timbrecli = 0  # ici = qte_tot car mapper filtre timbrecli==0
+result = []
 
 for line in sys.stdin:
-    line = line.strip()
-    if not line or "\t" not in line:
+    parts = line.strip().split('\t')
+    if len(parts) < 5:
         continue
-    key, payload = line.split("\t", 1)
+    codcde_s, qte_s, timbrecde_s, timbrecli_s, ville_s = parts
     try:
-        v, q_str, tcli_str = payload.split("|")
-    except:
+        codcde = int(codcde_s.strip())
+        qte = int(qte_s.strip())
+        timbrecde = float(timbrecde_s.strip())
+        # timbrecli = float(timbrecli_s.strip())  # toujours 0.0 ici
+        ville = ville_s.strip()
+    except Exception:
         continue
 
-    try:
-        q = int(float(q_str))
-    except:
-        q = 0
+    if current_cde == codcde:
+        qte_tot += qte
+        sans_timbrecli += qte
+        n_lines += 1
+    else:
+        if current_cde is not None:
+            q_avg = round(qte_tot / float(n_lines), 2)
+            # garder timbrecde juste comme critère secondaire (dernier vu)
+            result.append([current_cde, qte_tot, timbrecde, current_ville, sans_timbrecli, q_avg])
+        current_cde = codcde
+        current_ville = ville
+        qte_tot = qte
+        n_lines = 1
+        sans_timbrecli = qte
 
-    try:
-        tcli = float(tcli_str) if tcli_str != "" else 0.0
-    except:
-        tcli = 0.0
+# dernière commande
+if current_cde is not None:
+    q_avg = round(qte_tot / float(n_lines), 2)
+    result.append([current_cde, qte_tot, timbrecde, current_ville, sans_timbrecli, q_avg])
 
-    if cur is not None and key != cur:
-        flush(cur, ville_kept, qte_tot, n_lines, sum_no_tcli)
-        qte_tot = 0; n_lines = 0; sum_no_tcli = 0
-        ville_kept = ""
+# tri: total qte desc puis timbrecde desc
+result.sort(key=lambda e: (e[1], e[2]), reverse=True)
 
-    if cur is None or key != cur:
-        cur = key
+# top 100
+result = result[:100] if len(result) >= 100 else result
 
-    if not ville_kept and v:
-        ville_kept = v
-
-    qte_tot += q
-    n_lines += 1
-    if tcli == 0.0:
-        sum_no_tcli += q
-
-flush(cur, ville_kept, qte_tot, n_lines, sum_no_tcli)
+# sortie TSV: cde \t ville \t qte_sans_timbre \t qt_avg
+for ele in result:
+    sys.stdout.write("%d\t%s\t%d\t%.2f\n" % (ele[0], ele[3], ele[4], ele[5]))
