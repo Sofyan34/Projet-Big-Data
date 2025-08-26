@@ -34,6 +34,7 @@ with io.open(csv_path, 'r', encoding='utf-8', errors='ignore') as f:
         # cle de ligne = codcde#000001 (pour de-duplic et tri)
         rk = (row['codcde'] + '#' + ('%06d' % i)).encode('utf-8')
         put = {
+            b'commande:codcde':    (row.get('codcde','') or '').encode('utf-8'),
             b'commande:datcde':    (row.get('datcde','') or '').encode('utf-8'),
             b'commande:codobj':    (row.get('codobj','') or '').encode('utf-8'),
             b'commande:libobj':    (row.get('libobj','') or '').encode('utf-8'),
