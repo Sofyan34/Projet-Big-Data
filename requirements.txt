@@ -1,4 +1,6 @@
 Python 3.5.2
+Hadoop 2.7.2
+HBase 1.4.9
 
 chardet (2.3.0)
 cppy (1.2.1)
@@ -24,3 +26,4 @@ typing (3.5.0)
 UNKNOWN (0.0.0)
 urllib3 (1.13.1)
 wheel (0.29.0)
+
