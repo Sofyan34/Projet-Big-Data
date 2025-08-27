@@ -50,13 +50,13 @@ docker ps
 ```bash
 ./start_docker_digi.sh
 ```
-- Entrer dans le conteneur hadoop-master :
-```bash
-./bash_hadoop_master.sh
-```
 - Lancement des serveurs Slaves
 ```bash
 ./lance_srv_slaves.sh
+```
+- Entrer dans le conteneur hadoop-master :
+```bash
+./bash_hadoop_master.sh
 ```
 - Quitter le conteneur si besoin 
 ```bash
