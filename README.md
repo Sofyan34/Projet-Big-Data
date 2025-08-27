@@ -20,7 +20,6 @@ VM Linux : AlmaLinux 8.7 <br>
 CPU : 13 <br>
 RAM : 10 Go <br>
 Stockage : 50Go <br>
-VM (nombre de vCPU, RAM, stockage alloué) <br>
 Ports ouverts :
 - SSH : 22
 - HBase Thrift → 9090
