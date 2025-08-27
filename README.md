@@ -58,6 +58,10 @@ docker ps
 ```bash
 ./bash_hadoop_master.sh
 ```
+- Démarrer Hadoop :
+```bash
+./start-hadoop.sh
+```
 - Quitter le conteneur si besoin 
 ```bash
 exit
