@@ -33,7 +33,7 @@ Ports ouverts :
 
 IDE : VSCode et Jupyter Notebook <br>
 Github et Git <br>
-Power BI Desktop ( via ODBC) <br>
+Power BI Desktop (via ODBC) <br>
 Excel et Adobe Acrobat pour les rapports <br>
 Google Slides <br>
 
