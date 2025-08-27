@@ -81,7 +81,4 @@ hdfs dfs -mkdir -p /user/root/dw_data
 hdfs dfs -put /root/DW.csv /user/root/dw_data/
 hdfs dfs -ls /user/root/dw_data
 ```
--Executer le
-```bash
-job Hadoop Streaming voulu 
-```
+- Executer le job Hadoop Streaming voulu 
