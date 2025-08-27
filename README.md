@@ -85,3 +85,14 @@ hdfs dfs -put /root/DW.csv /user/root/dw_data/
 hdfs dfs -ls /user/root/dw_data
 ```
 - Executer le job Hadoop Streaming voulu 
+
+## 3 : Connexion Hbase
+
+- Lancement du service Thrist d'Hbase
+```bash
+./services_hbase_thrift.sh
+```
+- Lancement de Hbase
+```bash
+./start-hbase.sh
+```
