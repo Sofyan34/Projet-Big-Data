@@ -12,7 +12,7 @@ Microsoft Power BI Desktop 2.146.1133.0 (août 2025)
 
 Les libs Python déjà listées dans requirements.txt <br>
 API : HappyBase pour interaction HBase <br>
-Connecteurs : ODBC HBase driver version 10.0.26100.1150) <br>
+Connecteurs : ODBC HBase driver version 10.0.26100.1150 <br>
 
 ## 3. Infra et environnement
 
@@ -20,20 +20,14 @@ VM Linux : AlmaLinux 8.7 <br>
 CPU : 13 <br>
 RAM : 10 Go <br>
 Stockage : 50Go <br>
-Ports ouverts :
-- SSH : 22
-- HBase Thrift → 9090
-- HBase REST → 9070
-- HBase Master UI → 16010
-- YARN ResourceManager → 8088
-- Spark Master → 7077
-- Spark Worker → 8040 / 8041
 
 ## 4. Outils utilisés
 
 IDE : VSCode et Jupyter Notebook <br>
 Github et Git <br>
 Power BI Desktop (via ODBC) <br>
+Putty <br>
+Filezilla <br>
 Excel et Adobe Acrobat pour les rapports <br>
 Google Slides <br>
 
