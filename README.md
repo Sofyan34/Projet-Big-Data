@@ -26,8 +26,7 @@ Stockage : 50Go <br>
 IDE : VSCode et Jupyter Notebook <br>
 Github et Git <br>
 Power BI Desktop (via ODBC) <br>
-Putty <br>
-Filezilla <br>
+Putty et Filezilla pour l'accès à la VM <br>
 Excel et Adobe Acrobat pour les rapports <br>
 Google Slides <br>
 
